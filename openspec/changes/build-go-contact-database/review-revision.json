@@ -1,0 +1,18 @@
+{
+  "revision": "r2-5afa4f4a86284219",
+  "state": "uncommitted working-tree documents",
+  "artifacts_sha256": {
+    "proposal.md": "f6536ff60835c1c0447e0429dcea9f843845670acff59025b9d9d60abd89153d",
+    "design.md": "7396aacab5f6444d1e28b8deddbd46a22881c7f583dfd13c042e6508719bc515",
+    "tasks.md": "23ff8aa344117a76733e44926d75772ac00e025203837cb7299a86349a969d0c",
+    "specs/contact-http-api/spec.md": "2929292ac70cfdc0e0fc401cda02af6d0bdbbee407b247c8931e88435da729bb",
+    "specs/contact-records/spec.md": "a321ecfbeb52447c5a5ce4df12618c775f11858b7fbdc1ec569f48528438dac1",
+    "specs/contact-web-ui/spec.md": "3e5d654b8eea1fe16ea6a14d2e28c3860c7a3758dfea6e1cba385355908b6622",
+    "specs/durable-storage/spec.md": "8765c9106df93850c833d1a71bd0b2b01163c8bbbfb92ae4cf3395f3cd6fec44"
+  },
+  "sources_sha256": {
+    "main.go": "b2b372bbfbd4865d1a823a86cf38d527a7d1fe2b3e8c2eee5b78804ca8356fb3",
+    "go.mod": "e6de16c0c93aec3cb7b70c3d72ee7c7497a4fed39d55ac2cb1a61464753eafe6",
+    "openspec/config.yaml": "f0082e9c22e8ce1d611c0f3b4d4915ce445e7ff2553cda6b713b6c25f390984c"
+  }
+}
